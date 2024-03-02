@@ -4,7 +4,7 @@
 
 ## 什么是机场梯子
 
-[机场节点梯子](http://react-china.org/t/topic/40275)是提供科学上网服务的网络供应商，其主要服务项目是提供Shadowsocks、V2ray、Trojan等翻墙协议的节点服务器。这些机场因早期使用Shadowsocks和ShadowsocksR（简写为SS/SSR）协议，而小飞机又是Shadowsocks软件的图标，因此得名“机场”。这些节点服务器订阅文件输入到“飞机”里，就是可以帮助用户绕过网络封锁的“航线”。
+[机场节点梯子](https://reactchina.sxlcdn.com/t/topic/40275)是提供科学上网服务的网络供应商，其主要服务项目是提供Shadowsocks、V2ray、Trojan等翻墙协议的节点服务器。这些机场因早期使用Shadowsocks和ShadowsocksR（简写为SS/SSR）协议，而小飞机又是Shadowsocks软件的图标，因此得名“机场”。这些节点服务器订阅文件输入到“飞机”里，就是可以帮助用户绕过网络封锁的“航线”。
 
 ## 什么是 VPN
 
